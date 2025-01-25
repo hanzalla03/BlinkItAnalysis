@@ -5,5 +5,6 @@ Using KPIs and Power BI visualizations, I identified key insights and optimizati
 
 This project highlighted the power of data-driven decisions and sharpened my analytics skills. I’d love to hear your thoughts!
 
-#DataAnalytics #PowerBI #SalesAnalysis #CustomerSatisfaction
+![Screenshot 2025-01-24 102820](https://github.com/user-attachments/assets/d8b513ff-27a4-4172-9751-8b93a99ace6b)
+
 
